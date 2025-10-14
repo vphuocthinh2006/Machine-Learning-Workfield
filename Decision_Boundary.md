@@ -9,7 +9,7 @@ It defines how a model decides **which class** a new data point belongs to, base
 ### 🧠 Intuition
 
 For binary classification, a decision boundary is the line (or curve, or surface) where the model’s predicted probability equals 0.5.
-
+$$
 \[
 \hat{y} = 
 \begin{cases}
@@ -17,7 +17,7 @@ For binary classification, a decision boundary is the line (or curve, or surface
 0, & \text{otherwise}
 \end{cases}
 \]
-
+$$
 For **Linear Models** like Logistic Regression, this boundary is a **straight line (2D)** or **hyperplane (nD)**:
 
 \[
