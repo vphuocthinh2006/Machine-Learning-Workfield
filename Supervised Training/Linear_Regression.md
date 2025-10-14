@@ -1,6 +1,4 @@
-### This is the entire Supervised Training's every algorithm description and its details.
 
-Perfect 👏 — since you’re writing for a **`README.md`** (GitHub Markdown), we’ll slightly reformat it from Jupyter-style to **clean, GitHub-optimized Markdown**:
 
 ✅ Works perfectly with GitHub’s Markdown renderer
 ✅ Keeps math equations readable (LaTeX-friendly via `$...$` or `$$...$$`)
