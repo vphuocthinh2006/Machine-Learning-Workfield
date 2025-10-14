@@ -1,5 +1,3 @@
-Perfect — let’s move on to the next algorithm in your **Supervised Learning** section:
-Here’s a **GitHub-optimized `README.md` version** for **Logistic Regression**, formatted in the same clean, professional style as your Linear Regression section 👇
 
 ---
 
