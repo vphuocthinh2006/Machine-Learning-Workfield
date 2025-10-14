@@ -1,7 +1,6 @@
 
 ---
 
-```markdown
 ## 🌳 Decision Trees
 
 A **Decision Tree** is a supervised learning algorithm used for **classification** and **regression**.  
